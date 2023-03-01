@@ -7,7 +7,7 @@ The plan will include three major parts. Firstly, Basic Project Documentation an
 The project will be developed iteratively, with each iteration focusing on the completion of the project's goals. The team will work collaboratively and in parallel to ensure that the project is completed efficiently and effectively. Agile methodologies will be used to adapt to changing circumstances and to continuously improve the development process. The Lean approach will ensure that the project is developed in the most efficient way possible, with a focus on eliminating waste and maximizing value.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
+* [Basic Project Documentation and Project Management.](initiatives/documentation_initiative.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
@@ -17,3 +17,5 @@ The project will be developed iteratively, with each iteration focusing on the c
 
 ## Test plan
 How will this be tested?
+Create playwritgh test for legal requirements
+Google analytics
