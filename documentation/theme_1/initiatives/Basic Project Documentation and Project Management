@@ -32,3 +32,7 @@ Team:
 Project Manager: Responsible for overseeing the project plan and ensuring that project goals and objectives are achieved.
 Business Analyst: Responsible for defining project scope and objectives.
 Development Team: Responsible for implementing the project plan and achieving project objectives.
+
+Epics:
+* [Develop comprehensive project scope and requirements documentation.](documentation/theme_1/initiatives/EPIC/DevOps Implementation for MyWebClass)
+* [Create high-quality project documentation that meets stakeholder needs.](documentation/theme_1/initiatives/EPIC/MyWebClass.org Website Template Development)
