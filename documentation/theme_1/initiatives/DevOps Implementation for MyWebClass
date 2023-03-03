@@ -27,7 +27,9 @@ Constraints: Limited resources and time constraints may impact the initiative.
 
 Assumptions: The project team has the necessary skills and knowledge to establish a DevOps process.
 
-Risks: Potential risks include delays in project completion due to unforeseen circumstances or resource constraints. Mitigation strategies include creating a contingency plan and actively monitoring project progress.
+Risks: 
+1. Potential risks include delays in project completion due to unforeseen circumstances or resource constraints. 
+2. Mitigation strategies include creating a contingency plan and actively monitoring project progress.
 
 Dependencies: None
 
